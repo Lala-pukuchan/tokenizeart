@@ -1,4 +1,9 @@
 # tokenizeart
+## Upload image and metadata to IFPS
+### IFPS
+IPFS (InterPlanetary File System) is a decentralized, peer-to-peer protocol for storing and sharing files in a distributed and secure manner.
+### Pinata
+- [Using pinata to upload files](https://app.pinata.cloud/ipfs/files)
 ## blockchain platform
 ### Ethereum
 NFT Standard: Utilizes the ERC-721 standard, which is widely recognized and integrated into a mature ecosystem.
