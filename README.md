@@ -27,7 +27,13 @@ Development Tools: Offers well-prepared tools and comprehensive documentation to
 Future Developments: Continues to evolve with tailored features that enhance performance and user experience.
 ### Conclusion
 I chose Ethereum because it has a mature community and extensive documentation. Although BNB Chain offers lower costs, I can use its testnet for free, which makes Ethereum the better option for my project.
-
+## Language & standard Used
+- Language: Solidity
+- Standard: ERC721
+## Implementation
+- OwnerOf function
+    - [ERC721](https://docs.openzeppelin.com/contracts/4.x/api/token/erc721#ERC721-ownerOf-uint256-)
+    - Implementation of [OwnerOf function](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/ERC721.sol#L449)
 ## Compile & Deploty & Transact
 ### Remix IDE
 interface to Compile & Deploty & Transact
