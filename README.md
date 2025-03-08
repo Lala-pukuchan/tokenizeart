@@ -27,3 +27,13 @@ Development Tools: Offers well-prepared tools and comprehensive documentation to
 Future Developments: Continues to evolve with tailored features that enhance performance and user experience.
 ### Conclusion
 I chose Ethereum because it has a mature community and extensive documentation. Although BNB Chain offers lower costs, I can use its testnet for free, which makes Ethereum the better option for my project.
+
+## Compile & Deploty & Transact
+### Remix IDE
+interface to Compile & Deploty & Transact
+### Meta mask
+enable to connect to blockchain network, sign and send transactions with storing user's private key safely
+
+### Compile
+### Deploty
+### Transact
