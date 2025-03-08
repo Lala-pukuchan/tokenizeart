@@ -41,8 +41,28 @@ interface to Compile & Deploty & Transact
 enable to connect to blockchain network, sign and send transactions with storing user's private key safely
 
 ### Compile
+Compile solidity file
 - Uploading files to [Remix IDE](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.26+commit.8a97fa7a.js)
 - Compiling file 
     - [Video for compile](https://www.youtube.com/watch?v=DjwfKg-RZ3A)
-### Deploty
+### Deploy
+Deploy contract to blockchain
+- Environment: `Injected provider - MetaMask`
+- Contract: `My NFT`
+    - [Video for deploy](https://youtu.be/sbFlTN66TUI)
+- Deployed address: `0xa3c0C24fBce3d05778034Ae7496Ed26ba2D1b10A`
 ### Transact
+- Change the state of contract
+    #### Mint NFT
+    - mintNFT
+        - Create New NFT on blockchain
+            - get tokenID
+            - record owner and metadata on blockchain
+        - Input value for Mint
+            - recipient (public address of MetaMask): `0xa651Ccb7B5beeA8c52cfc2498eb8EC7Dd868fC1B`
+            - tokenURI:
+            `https://gateway.pinata.cloud/ipfs/bafkreieteluzc342ycdhnswucr2fbylno2cmtvfcramd33rahgqvmt4qre`
+        - [video for mint](https://youtu.be/rjq2U8sT8TQ)
+    - OwnerOf
+        - tokenId: `1`
+        - [video for confirm NFT](https://youtu.be/bZfiJGEPhSE)
