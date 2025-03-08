@@ -35,5 +35,8 @@ interface to Compile & Deploty & Transact
 enable to connect to blockchain network, sign and send transactions with storing user's private key safely
 
 ### Compile
+- Uploading files to [Remix IDE](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.26+commit.8a97fa7a.js)
+- Compiling file 
+    - [Video for compile](https://www.youtube.com/watch?v=DjwfKg-RZ3A)
 ### Deploty
 ### Transact
