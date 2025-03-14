@@ -24,17 +24,7 @@ interface to Compile & Deploty & Transact
 ### Meta mask
 enable to connect to blockchain network, sign and send transactions with storing user's private key safely
 
-### Compile
-Compile solidity file
-- Uploading files to [Remix IDE](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.26+commit.8a97fa7a.js)
-- Compiling file 
-    - [Video for compile](https://www.youtube.com/watch?v=DjwfKg-RZ3A)
-### Deploy
-Deploy contract to blockchain
-- Environment: `Injected provider - MetaMask`
-- Contract: `My NFT`
-    - [Video for deploy](https://youtu.be/sbFlTN66TUI)
-- Deployed address: `0xa3c0C24fBce3d05778034Ae7496Ed26ba2D1b10A`
+
 ### Transact
 - Change the state of contract
     #### Mint NFT
