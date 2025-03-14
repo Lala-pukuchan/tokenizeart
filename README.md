@@ -1,4 +1,3 @@
-
 ## blockchain platform
 ### Ethereum
 NFT Standard: Utilizes the ERC-721 standard, which is widely recognized and integrated into a mature ecosystem.
